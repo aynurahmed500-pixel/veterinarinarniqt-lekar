@@ -350,6 +350,7 @@ nav {
   font-size: clamp(24px, 1.4vw, 34px);
   padding-left: 30px;
   padding-right: 30px;
+  line-height:2;
 }
 li {
   font-size:clamp(24px,1.4vw,34px);
