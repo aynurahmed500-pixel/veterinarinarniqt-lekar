@@ -126,7 +126,7 @@ nav {
     display: flex;
     flex-direction: column;
 
-    background: white;
+    background: #769AC5;
 
     max-height: 0;
     overflow: hidden;
@@ -173,7 +173,7 @@ nav {
 
     gap: 8px;
 
-    background: black;
+    background: #769AC5;
 
     width: 100%;
 
