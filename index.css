@@ -208,6 +208,7 @@ nav {
 .dqsna{ flex:3; }
 #poqsneniq {
   font-size:clamp(24px,1.4vw,34px);
+  text-align:center;
 }
 }
 
