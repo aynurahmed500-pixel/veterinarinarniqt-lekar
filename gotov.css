@@ -16,7 +16,7 @@ width: 100%;
 height: 300px;
 width: 100%;
 margin: 0;
-background-image: url(https://uploads.onecompiler.io/44mzetgvy/44nd8qnqb/1000023181.png);
+background-image: url(https://i.imgur.com/jbxnuzk.png);
 background-size: cover;
 background-position: left center;
  position: relative;
@@ -25,7 +25,7 @@ background-position: left center;
 /* Заглавна снимка на компютър */
 @media (min-width: 600px) {
 .hero {
-background-image: url(https://i.imgur.com/NAgJiXx.png);
+background-image: url(https://i.imgur.com/2yiQ0Jk.jpeg);
 background-position: center;
 height: 250px;
 z-index: 1;
@@ -36,7 +36,7 @@ width:100%;
 
 /* Заглавие на телефон */
 .hero h1 {
-color: white;
+color: #769AC5;
 font-size: 40px;
 font-weight: bold;
 text-align: center;
@@ -51,7 +51,7 @@ transform: translate(-50%,-50%);
 
 @media (min-width:600px){
   .hero h1 {
-  color:white;
+  color:#769AC5;
   font-size:70px;
   font-weight:bold;
   text-align:center;
