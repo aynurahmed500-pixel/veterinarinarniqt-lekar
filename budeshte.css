@@ -52,7 +52,7 @@ nav {
 @media (max-width:599px){
 
 .hero h1 {
-  color: white;
+  color:#769AC5;
   font-size: 40px;
   font-weight: bold;
   text-align: center;
@@ -67,7 +67,7 @@ nav {
 
 @media (min-width:600px){
   .hero h1 {
- color: white;
+ color: #769AC5;
   font-size:80px;
   font-weight:bold;
   text-align:center;
