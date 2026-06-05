@@ -63,7 +63,9 @@ nav {
   height: 50px;
   width: 100%;
     }
-  
+  .palls {
+    background-size:cover;
+  }
 
   .menu-icon {
     position: fixed;
