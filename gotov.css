@@ -108,7 +108,7 @@ transform: translate(-50%,-50%);
     display: flex;
     flex-direction: column;
 
-    background: white;
+    background: #769AC5;
 
     max-height: 0;
     overflow: hidden;
