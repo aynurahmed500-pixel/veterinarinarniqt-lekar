@@ -69,8 +69,9 @@ nav {
 
     z-index: 2000;
   }
-.snimkatb {
-  height:50px;
+.snimkatb img {
+  height: 50px;
+  width: auto;
 }
   .menu-icon {
     position: fixed;
