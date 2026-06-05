@@ -72,7 +72,10 @@ nav {
 .snimkatb {
   height: 50px;
   width: 100%;
-}
+    }
+  .palls {
+    background-size:cover;
+  }
   .menu-icon {
     position: fixed;
     top: 12px;
