@@ -111,7 +111,7 @@ nav {
     display: flex;
     flex-direction: column;
 
-    background: white;
+    background:#769AC5;
 
     max-height: 0;
     overflow: hidden;
