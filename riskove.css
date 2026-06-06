@@ -352,7 +352,7 @@ nav {
 }
 
 .dolu{
-  background-image:url("https://uploads.onecompiler.io/44mzetgvy/44nd8qnqb/1000023633.png");
+  background-image:url("https://i.imgur.com/L8nvjE8.png");
     height:200px;
   width:100%;
   margin-top:100px;
@@ -362,7 +362,7 @@ nav {
 }
 @media (max-width:599px){
 .dolu h2 {
-  color: white;
+  color: #769AC5;
   font-size:25px;
   text-align:center;
   position: relative;
@@ -374,7 +374,7 @@ nav {
 }
 @media (min-width:600px){
   .dolu h2 {
-  color:white;
+  color:#769AC5;
   font-size:40px;
     text-align:center;
     position:relative;
